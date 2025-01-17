@@ -1,4 +1,4 @@
-# Tentacle Rigging Tool
+# Auto Ribbon Tool
 
 ## Overview
 This tool simplifies the process of creating and animating tentacles in Maya. It offers procedural controls, dynamic effects, and easy customization to match the desired look and behavior.
