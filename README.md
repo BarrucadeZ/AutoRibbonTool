@@ -1,5 +1,8 @@
 # Auto Ribbon Tool
-
+## How to Use
+- Download AutoRibbonTool.py and Ultimate_Ribbon_Rig_Generator.ui
+- Drag the .ui file to ...\Documents\maya\scripts
+- Run the .py file in Maya script editor
 ## Overview
 This tool simplifies the process of creating and animating tentacles in Maya. It offers procedural controls, dynamic effects, and easy customization to match the desired look and behavior.
 
