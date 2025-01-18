@@ -641,6 +641,7 @@ def createArrowCurve(name="arrowCurve"):
 
 
 # Example Usage
+"""
 tentacle = Tentacle(
     modelName="tentacle",
     jointCount=18,
@@ -656,3 +657,4 @@ tentacle.setUpTentacleFK()
 tentacle.tentacleRoll()
 tentacle.tentacleRipple()
 tentacle.tentacleRibbonDeformer()
+"""
